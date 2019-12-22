@@ -1,0 +1,35 @@
+whitelist_rules:
+  - closing_brace
+  - comma
+  - conditional_binding_cascade
+  - control_statement
+  - custom_rules
+  - opening_brace
+  - return_arrow_whitespace
+  - trailing_newline
+  - trailing_semicolon
+  - empty_count
+  - mark
+  - valid_docs
+  - vertical_whitespace
+  - file_length
+  - function_body_length
+
+excluded:
+  - Pods
+  - Carthage
+
+function_body_length:
+  warning: 72
+  error: 100
+
+file_length:
+  warning: 500
+  error: 750
+
+line_length:
+  warning: 250
+  error: 400
+  ignores_comments: true
+  ignores_urls: true
+  ignores_function_declarations: true
