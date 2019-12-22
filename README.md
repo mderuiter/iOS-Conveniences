@@ -8,3 +8,6 @@
 
 ## Simulator tools
 * [Deeplink (xcrun)](https://github.com/mderuiter/iOS-Conveniences/blob/master/Simulator/Deeplinks.md)
+
+## Templates
+* [VIP](https://github.com/mderuiter/iOS-Conveniences/tree/master/Templates/Examples/CleanSwift)
