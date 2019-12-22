@@ -1,0 +1,20 @@
+## User settings
+xcuserdata/
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## CocoaPods
+# Pods/
+# *.xcworkspace
+
+## Carthage
+# Carthage/Build/
+
+## fastlane
+# fastlane/report.xml
+# fastlane/Preview.html
+# fastlane/screenshots/**/*.png
+# fastlane/test_output
