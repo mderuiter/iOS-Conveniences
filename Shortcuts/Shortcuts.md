@@ -2,7 +2,7 @@
 
 Shortcuts are very convenient when you want to improve your development speed. in the beginning it can take some time to learn some shortcuts, but once you are into it; you can not live without them.
 
-## Cheat sheets
+## xCode cheat sheets
 
 There are plenty of cheat sheets available; here are some examples:
 
