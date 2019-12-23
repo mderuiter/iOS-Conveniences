@@ -11,3 +11,6 @@
 
 ## Templates
 * [VIP](https://github.com/mderuiter/iOS-Conveniences/tree/master/Templates/Examples/CleanSwift)
+
+## Shortcuts
+* [xCode](https://github.com/mderuiter/iOS-Conveniences/blob/master/Shortcuts/Shortcuts.md)
